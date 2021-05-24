@@ -1,7 +1,9 @@
 function App() {
   return (
-    <div>
-      <h1>React Joke Generator using Hooks </h1>
+    <div className="box">
+      <h3>Chuck Norris Jokes Generator</h3>
+      <p>Here goes the joke</p>
+      <button>Get a new joke 🤣</button>
     </div>
   )
 }
